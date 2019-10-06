@@ -1,0 +1,10 @@
+make,fuel-type,body-style,curb-weight,num-of-cylinders,engine-size,horsepower,city-mpg,highway-mpg,price
+alfa-romero,gas,convertible,2548,four,130,111,21,27,13495
+alfa-romero,gas,convertible,2548,four,130,111,21,27,16500
+alfa-romero,gas,hatchback,2823,six,152,154,19,26,16500
+audi,gas,sedan,2337,four,109,102,24,30,13950
+audi,gas,sedan,2824,five,136,115,18,22,17450
+audi,gas,sedan,2507,five,136,110,19,25,15250
+audi,gas,sedan,2844,five,136,110,19,25,17710
+audi,gas,wagon,2954,five,136,110,19,25,18920
+audi,gas,sedan,3086,five,131,140,17,20,23875
